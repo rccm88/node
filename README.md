@@ -1,6 +1,6 @@
 ### Node Server Project:
 
-<p>Creates a server on localhost, shows it and displays a JSON with information about the server's RAM usage."</p></br></br>
+<p>Creates a server on localhost, shows it and displays a JSON with information about the server's RAM usage.</p></br></br>
 * Example of local server:
 
 ```
