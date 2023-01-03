@@ -8,7 +8,7 @@ http://localhost:3000
 and 
 http://localhost:3000/stats 
 ```
-![plot](./image/snapshot.png)
+![plot](./images/snapshot.png)
 
 * Example:
 
