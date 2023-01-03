@@ -12,12 +12,12 @@ http://localhost:3000/stats
 
 * Example:
 
-index   | valor
+index   | value
 --------- | ------
-OS | sistema operacional
-Arch | arquitetura
-TotalRAM | memória total
-FreeRAM | memória livre
-Usage | porcentagem de uso
+OS | operating system
+Arch | architecture
+TotalRAM | total memory
+FreeRAM | free memory
+Usage | usage percentage
 
 <img src='https://github.com/DianaMartine/nodeJs-liveCoding-DIO/blob/main/Nodejs/assets/pcRamUsage.png?raw=true' alt='pcRamUsage' />
