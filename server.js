@@ -9,6 +9,6 @@ http.createServer((req, res) => {
     if(url === '/stats'){
         res.end(JSON.stringify(stats, null, 2));
     }else {
-        res.end('<h1>Sou um servidor rodando</h1>');
+        res.end('<h1>Server running successfully</h1>');
     }
-}).listen(port, () => console.log(`Server is running in ${host}:${port}, ${stats}`)); 
+}).listen(port, () => console.log(`Server is running at ${host}:${port}, ${stats}`)); 

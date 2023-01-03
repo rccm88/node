@@ -8,7 +8,7 @@ http://localhost:3000
 and 
 http://localhost:3000/stats 
 ```
-<img src='https://github.com/DianaMartine/nodeJs-liveCoding-DIO/blob/main/Nodejs/assets/server.png?raw=true' alt='server' />
+![plot](./image/snapshot.png)
 
 * Example:
 
